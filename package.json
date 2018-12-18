@@ -1,7 +1,7 @@
 {
   "name": "ufx",
   "version": "0.1.0",
-  "description": "",
+  "description": "A Front-end Development Management Framework.",
   "main": "index.js",
   "bin": {
     "ufe": "./bin/ufx.js"
@@ -13,6 +13,13 @@
     "ufx",
     "cli"
   ],
-  "author": "ufx-team",
-  "license": "BSD-3-Clause"
+  "author": "ufx-team <ufex.team@gmail.com>",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/ufx-team/ufx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ufx-team/ufx/issues"
+  }
 }
